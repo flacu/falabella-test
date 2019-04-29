@@ -10,4 +10,7 @@ Test Falabella Digital Factory
 ## Diseño:
 Basado en https://cdn.dribbble.com/users/1998175/screenshots/6317545/nyc_dribbble.gif con pequeños cambios.
 
-### No es necesario instalar nada para correr el landing.
+## Notas
+Todos los botones están deshabilitados, a excepción del menú mobile.
+
+### No es necesario instalar nada para correr el landing, basta con clonarlo y abrir html/index.html en tu navegador favorito.
