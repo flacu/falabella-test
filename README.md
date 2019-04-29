@@ -13,4 +13,8 @@ Basado en https://cdn.dribbble.com/users/1998175/screenshots/6317545/nyc_dribbbl
 ## Notas
 Todos los botones están deshabilitados, a excepción del menú mobile.
 
-### No es necesario instalar nada para correr el landing, basta con clonarlo y abrir html/index.html en tu navegador favorito.
+## Cómo usarlo
+No es necesario instalar nada para correr el landing, basta con clonarlo y abrir html/index.html en tu navegador favorito. Los archivos base están dentro de cada carpeta:
+
+* scss dentro de css
+* js base dentro de js/development
